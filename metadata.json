@@ -1,0 +1,6 @@
+{
+  "name": "Gamer Online",
+  "description": "Gamer Online - Game Creator Studio created by Nikhilesh B R. Build games using resources, backgrounds, tools, and 3 trial games with Exclusive, Pro, and Deluxe subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
